@@ -1,0 +1,9 @@
+.venv/
+.venv311/
+comfyui/models/
+comfyui/
+outputs/
+*.safetensors
+*.ckpt
+*.pth
+__pycache__/
