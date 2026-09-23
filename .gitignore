@@ -2,6 +2,14 @@
 .venv311/
 comfyui/models/
 comfyui/
+models/
+laya/
+laya-vision/
+laya-jev-lab/
+nanojev/
+laya-onnx/
+laya-playground/
+hejev-laya/
 outputs/
 *.safetensors
 *.ckpt
